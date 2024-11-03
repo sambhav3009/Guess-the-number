@@ -7,8 +7,6 @@ This is a simple command-line-based number guessing game written in C. The progr
 - [How It Works](#how-it-works)
 - [Requirements](#requirements)
 - [How to Run the Game](#how-to-run-the-game)
-- [Example Output](#example-output)
-- [License](#license)
 
 ## Features
 
